@@ -1,4 +1,4 @@
-# 🏦 Berka Czech Bank — End-to-End Credit Risk & Retail Banking Analytics
+# 🏦 Berka Czech Bank — End-to-End Credit Risk & Retail Banking Analytics 
 
 [![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
 [![SQL Server](https://img.shields.io/badge/SQL%20Server-SSMS-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)](https://www.microsoft.com/en-us/sql-server)
