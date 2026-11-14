@@ -72,22 +72,22 @@ Retail banks must balance deposit growth against loan default exposure while ide
 * **KPIs:** Active Accounts (`4,500`), Total Credit Inflow (`3.23B`), Net Cash Flow (`197M`), Avg Account Balance (`38K`).
 * **Visuals:** Monthly Credit Inflow vs. Outflow trendline (1993–1998), Transaction Volume by Banking Operation (`Cash Deposit`, `Cash Withdrawal`, `Collection from Bank`, `Remittance to Bank`), and Cash Flow by Payment Category (`k_symbol`).
 
-![Executive Overview](Assets/page1_executive_overview.png)
+![Executive Overview](Assets/Executive%20Overview.png)
 
 ### 2. Credit Risk & Loan Default Analysis
 * **KPIs:** Total Loans (`682`), Total Loan Principal (`103.26M`), Default Rate % (`11.14%`), Principal at Risk (`15.58M`).
 * **Visuals:** Loan Portfolio by Contract Status (`403` Running Good, `203` Paid, `45` In Debt, `31` Unpaid), District Unemployment % vs. Loan Default Rate scatter analysis, and Default Rate % by Credit Card Tier & Owner Gender.
 
-![Credit Risk & Defaults](Assets/page2_credit_risk.png)
+![Credit Risk & Defaults](Assets/Credit%20Risk%20&%20Defaults.png)
 
 ### 3. Regional & Customer Segmentation
 * **Interactive Controls:** Multi-select slicers for `Region`, `Card Tier`, and `Year` with a one-click `Reset` bookmark action.
 * **Visuals:** Expandable Region-to-District drill-down matrix (`Active Accounts`, `Avg Salary`, `Total Loan Principal`, `Default Rate %` with conditional data bars) paired with a Regional Account Distribution bar chart.
 
-![Regional Segmentation](Assets/page3_regional_segmentation.png)
+![Regional Segmentation](Assets/Regional%20&%20Customer%20Segments.png)
 
 ### 4. Star Schema Data Model
-![Star Schema Model](Assets/star_schema_model.png)
+![Database ERD Diagram](Assets/ssms_erd_diagram.png)
 
 ---
 
