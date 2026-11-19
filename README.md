@@ -129,6 +129,4 @@ berka-bank-analytics/
 ---
 
 ## 👤 Author
-**Kailash Choudhary**  
-*Data Analyst | SQL • Python • Power BI*  
-* GitHub: [@KailasH1245](https://github.com/KailasH1245)
+**Kailash Choudhary** | [LinkedIn](https://www.linkedin.com/in/kailashchoudharydata/) | [GitHub](https://github.com/KailasH1245)
